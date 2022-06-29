@@ -1,4 +1,4 @@
-# SPD2022_TPS_GK
+# SPD2022_TPS
 
 Div: 1G
 Grupo: "Transistores Forever"
